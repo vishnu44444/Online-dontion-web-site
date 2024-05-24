@@ -4,8 +4,6 @@ The online donation website is a modern, user-friendly platform designed to faci
 
 # Key Features
 User Registration and Authentication:
-
-Sign Up/In: Users can register and log in using their email or social media accounts.
 Profile Management: Users can manage their profiles, view donation history, and set donation preferences.
 Browse and Search for Causes:
 
@@ -34,7 +32,7 @@ Frontend:
 
 React.js: For building dynamic and responsive user interfaces.
 HTML5 & CSS3: For structuring and styling the web pages, ensuring a visually appealing and mobile-friendly design.
-Bootstrap/Tailwind CSS: Utilized for additional styling and layout structures.
+Bootstrap/ CSS: Utilized for additional styling and layout structures.
 Backend:
 
 Node.js: Provides a scalable and efficient server-side environment.
