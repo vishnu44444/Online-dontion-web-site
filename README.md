@@ -1,4 +1,7 @@
 # Online-dontion-web-site
+![Screenshot 2024-05-24 211552](https://github.com/vishnu44444/Online-dontion-web-site/assets/145116139/b54c8c9a-9b1f-45e9-a211-718fccd25b18)
+![Screenshot 2024-05-24 211628](https://github.com/vishnu44444/Online-dontion-web-site/assets/145116139/0daa5e70-53ac-4aa5-a678-b904c96dc317)
+
 Overview
 The online donation website is a modern, user-friendly platform designed to facilitate easy and secure donations for various causes. Built using the MERN stack (MongoDB, Express.js, React.js, Node.js), along with HTML and CSS for the frontend styling, this website ensures a seamless experience for both donors and administrators. The primary goal is to connect generous individuals with worthy causes, allowing for quick and transparent donations.
 
